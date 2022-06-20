@@ -1,5 +1,5 @@
 {
-  "name": "pdfjs-dist",
+  "name": "@athelian/pdfjs-dist",
   "version": "2.14.305",
   "main": "build/pdf.js",
   "types": "types/src/pdf.d.ts",
@@ -9,8 +9,6 @@
     "pdf",
     "pdf.js"
   ],
-  "homepage": "http://mozilla.github.io/pdf.js/",
-  "bugs": "https://github.com/mozilla/pdf.js/issues",
   "license": "Apache-2.0",
   "dependencies": {
     "dommatrix": "^1.0.1",
@@ -35,6 +33,6 @@
   "format": "amd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/pdfjs-dist"
+    "url": "https://github.com/athelian/pdfjs-dist"
   }
 }
